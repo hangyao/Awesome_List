@@ -12,7 +12,7 @@ A collection of useful articles and tutorials
 
 ## Deck
 
-Caya, Slidebean. [Presentation Ideas: A guide to an outstanding deck](https://slidebean.com/blog/design/presentation-ideas)
+- Caya, Slidebean. [Presentation Ideas: A guide to an outstanding deck](https://slidebean.com/blog/design/presentation-ideas)
 
 ## Deep Learning
 - Qure.ai. [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
