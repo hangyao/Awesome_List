@@ -7,6 +7,13 @@ A collection of useful articles and tutorials
 - Seth Robertson. [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
 - Adam Pritchard. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Jupyter Notebook
+- Josh Devlin. [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+
+## Deck
+
+Caya, Slidebean. [Presentation Ideas: A guide to an outstanding deck](https://slidebean.com/blog/design/presentation-ideas)
+
 ## Deep Learning
 - Qure.ai. [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
 - Zhixuan Li. [My Jumble of Computer Vision](http://joshua881228.webfactional.com/blog_my-jumble-of-computer-vison_135/)
