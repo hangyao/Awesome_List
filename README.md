@@ -9,6 +9,7 @@ A collection of useful articles and tutorials
 
 ## Jupyter Notebook
 - Josh Devlin. [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+- Michael Galarnyk. [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 
 ## Deck
 
