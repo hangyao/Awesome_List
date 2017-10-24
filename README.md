@@ -22,3 +22,4 @@ A collection of useful articles and tutorials
 - Geert Litjens. [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747)
 - Dinggang Shen. Deep Learning in Medical
 Image Analysis. PDF
+- François Chollet. [Keras resources](https://github.com/fchollet/keras-resources)
